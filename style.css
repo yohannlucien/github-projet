@@ -24,19 +24,35 @@ nav{
     top: 150px;
     left: 650px;
     width: 550px;
-    height: 450px;
+    height: 200px;
     border: 2px solid violet;
     background: #26BDD0;
     border-radius: 10px;
 }
+.circle{
+    position: absolute;
+    top: 150px;
+    left: 600px;
+    width: 135px;
+    height: 135px;
+    border: 2px solid violet;
+    background: #26BDD0;
+    border-radius: 70px;
+}
+.photo{
+    height: 135px;
+    width: 135px;
+    border-radius: 70px;
+}
 .title{
     position: relative;
     left: 800px;
-    top: -300px;
+    top: -20px;
+
 }
-.title2{
+.title1{
     position: relative;
     left: 700px;
-    top: -250px;
+    top: 10px;
 }
 /* page de compétance  */
